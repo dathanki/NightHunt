@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="left-up" width="80" height="45" tilewidth="16" tileheight="16" infinite="0" nextlayerid="7" nextobjectid="76">
+ <tileset firstgid="1" source="levelAssets.tsx"/>
+ <objectgroup id="2" name="platforms">
+  <object id="58" gid="1" x="-36.3333" y="735" width="400" height="32"/>
+  <object id="59" gid="1" x="651.666" y="735" width="400" height="32"/>
+  <object id="60" gid="1" x="322.333" y="735" width="400" height="32"/>
+  <object id="61" gid="1" x="881.667" y="735" width="400" height="32"/>
+  <object id="62" gid="1" x="401.333" y="579.333" width="400" height="32"/>
+  <object id="63" gid="1" x="704" y="411.667" width="400" height="32"/>
+  <object id="66" gid="1" x="82.6667" y="322" width="400" height="32"/>
+ </objectgroup>
+ <objectgroup id="4" name="helpers"/>
+ <objectgroup id="6" name="candy">
+  <object id="68" gid="4" x="412" y="293.667" width="24" height="22"/>
+  <object id="69" gid="4" x="320" y="227.667" width="24" height="22"/>
+  <object id="70" gid="4" x="252" y="289.667" width="24" height="22"/>
+  <object id="71" gid="4" x="180" y="227.667" width="24" height="22"/>
+  <object id="72" gid="4" x="126" y="287.667" width="24" height="22"/>
+  <object id="73" gid="4" x="687.333" y="275" width="24" height="22"/>
+  <object id="75" gid="4" x="553.333" y="183.667" width="24" height="22"/>
+ </objectgroup>
+</map>
