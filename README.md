@@ -8,11 +8,11 @@ Screenshots, videos, or gifs of your work in action. Don’t assume someone will
 
 
 ## Features
--First try 
--Its got point collection
--Level completion and advancement 
--MUSIC
--Collision too (with the point sprites)
+- First try 
+- Its got point collection
+- Level completion and advancement 
+- MUSIC
+- Collision too (with the point sprites)
 
 
 ## Setup & Installation
