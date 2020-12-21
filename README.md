@@ -1,6 +1,15 @@
 ## Overview
 Using HaxeFlixel, an API built on Haxe, we can create beautiful complex 2D games, for my project within an academic course i decided to create a Halloween themed platformer game.
 
+![](https://github.com/dathanki/NightHunt/blob/master/screenshots/Title.png)
+> Nighthunt!
+
+![](https://github.com/dathanki/NightHunt/blob/master/screenshots/Story.png)
+> The Story!
+
+![](https://github.com/dathanki/NightHunt/blob/master/screenshots/Lvl1.png)
+> Level 1.
+
 
 
 
@@ -8,6 +17,7 @@ Using HaxeFlixel, an API built on Haxe, we can create beautiful complex 2D games
 - Its got point collection
 - Level completion and advancement 
 - (obiously) sprite animation
+- Storyline
 - MUSIC
 - Collision too (with the point sprites)
 
