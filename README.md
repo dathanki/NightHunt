@@ -11,7 +11,7 @@ Using HaxeFlixel, an API built on Haxe, we can create beautiful complex 2D games
 
 ## Setup & Installation
 Install Haxe, HaxeFlixel and OpenGL,
-clone the repo and run it via the Haxe CMD
+clone the repo and run it via the Haxe CMD.
 More info on how to run HaxeFlixel projects can be found [here](https://haxeflixel.com/documentation/)
 
 Give instructions on how to set up and install your project.
