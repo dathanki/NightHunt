@@ -2,9 +2,9 @@
 Using HaxeFlixel, an API built on Haxe, we can create beautiful complex 2D games, for my project within an academic course i dicded to create a Halloween themed platformer game.
 
 ## Features
-- First try 
 - Its got point collection
 - Level completion and advancement 
+- (obiously) sprite animation
 - MUSIC
 - Collision too (with the point sprites)
 
